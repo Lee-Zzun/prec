@@ -1,4 +1,5 @@
-# dashboard
+# main.py
+# streamlit을 이용한 주가 차트 페이지
 
 import streamlit as st
 

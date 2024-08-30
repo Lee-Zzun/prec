@@ -3,7 +3,7 @@
 import streamlit as st
 
 def main():
-    st.title('Hello world!')
+    st.title('This is Git Prec')
 
 if __name__ == '__main__':
     main()

@@ -1,1 +1,1 @@
-# prec
+# prec(Git 실습)
